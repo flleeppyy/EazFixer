@@ -60,3 +60,4 @@ feel free to submit an issue but I cannot guarantee I will fix it.
 This tool uses the following (open source) software:
 * [dnlib](https://github.com/0xd4d/dnlib) by [0xd4d](https://github.com/0xd4d), licensed under the MIT license, for reading/writing assemblies.
 * [Harmony](https://github.com/pardeike/Harmony) by [Andreas Pardeike](https://github.com/pardeike), licensed under the MIT license, for patching the stacktrace which allows for reflection invocation to be used.
+* 
